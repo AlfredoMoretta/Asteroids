@@ -1,0 +1,1 @@
+First experiment with pygame (with COLLISION!)
